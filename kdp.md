@@ -10,9 +10,6 @@ Through a combination of practical tips, real-world examples, and inspiring stor
 
 So join us on this journey towards greater productivity and goal achievement. Together, we'll explore the power of effective organization and list-making, and learn how to turn our dreams into actionable plans for success.
 
-
-
-
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
 
 
