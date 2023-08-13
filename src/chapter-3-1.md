@@ -3,7 +3,7 @@ The Importance of Prioritization in List-Making
 
 In this chapter, we will explore the significance of prioritization when it comes to effective list-making. By understanding and implementing prioritization techniques, you can maximize your productivity, accomplish your goals, and achieve a sense of satisfaction in your daily life.
 
-1. Understanding Prioritization
+1\. Understanding Prioritization
 -------------------------------
 
 Prioritization is a fundamental aspect of organizing tasks and activities. It involves assigning importance or value to each item on your list based on various factors such as urgency, deadlines, impact, and personal values. By identifying and focusing on the most crucial tasks, you can make efficient use of your time and resources.
@@ -15,7 +15,7 @@ Prioritization is a fundamental aspect of organizing tasks and activities. It in
 * **Goal Orientation:** Prioritization keeps you focused on what truly matters, enabling you to align your actions with your long-term objectives.
 * **Improved Decision-Making:** Prioritization facilitates decision-making by allowing you to evaluate the potential impact and consequences of each task.
 
-2. Techniques for Prioritizing Tasks
+2\. Techniques for Prioritizing Tasks
 ------------------------------------
 
 Prioritization techniques vary depending on individual preferences and requirements. Here are a few popular methods that can help you prioritize your tasks effectively:
@@ -46,7 +46,7 @@ The MoSCoW method helps prioritize tasks based on four categories:
 * **Could Have:** These tasks are desirable but not essential. They can be considered if time and resources permit.
 * **Won't Have:** These tasks are non-essential at the current stage and can be disregarded.
 
-3. Implementing Prioritization in Your List-Making Process
+3\. Implementing Prioritization in Your List-Making Process
 ----------------------------------------------------------
 
 To effectively incorporate prioritization into your list-making process, follow these practical steps:
