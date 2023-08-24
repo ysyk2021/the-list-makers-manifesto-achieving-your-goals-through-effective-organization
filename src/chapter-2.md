@@ -1,5 +1,3 @@
-Chapter 2: The Benefits of List-Making
-======================================
 
 List-making is an essential tool for effective organization and goal achievement. In this chapter, we will explore the benefits of list-making and techniques for creating effective lists.
 

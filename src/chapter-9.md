@@ -1,5 +1,3 @@
-Chapter 9: Collaborating with Others
-====================================
 
 Collaboration can be a powerful tool for achieving your goals through effective organization. In this chapter, we'll explore the benefits of collaboration and tips for building and maintaining strong collaborative relationships.
 

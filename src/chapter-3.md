@@ -1,5 +1,3 @@
-Chapter 3: Prioritizing and Goal-Setting
-========================================
 
 Prioritizing and goal-setting are essential components of effective list-making and organization. In this chapter, we will explore the importance of prioritization in list-making and strategies for setting and achieving goals.
 

@@ -1,5 +1,3 @@
-How to Use This Guide
-==============================
 
 Welcome to *The List Makers Manifesto: Achieving Your Goals Through Effective Organization*! In this chapter, we will provide you with a comprehensive guide on how to navigate and make the most of this book. By following these instructions, you'll be well-equipped to unleash your organizational potential and achieve your goals effectively.
 

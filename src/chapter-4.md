@@ -1,5 +1,3 @@
-Chapter 4: Creating Effective To-Do Lists
-=========================================
 
 To-do lists are essential tools for effective organization and goal achievement. In this chapter, we will explore the role of to-do lists in list-making and tips for creating effective to-do lists.
 

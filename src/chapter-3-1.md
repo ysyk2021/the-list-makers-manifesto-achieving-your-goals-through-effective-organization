@@ -1,5 +1,3 @@
-The Importance of Prioritization in List-Making
-========================================================
 
 In this chapter, we will explore the significance of prioritization when it comes to effective list-making. By understanding and implementing prioritization techniques, you can maximize your productivity, accomplish your goals, and achieve a sense of satisfaction in your daily life.
 

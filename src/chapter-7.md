@@ -1,5 +1,3 @@
-Chapter 7: Organizing Your Space and Time
-=========================================
 
 Effective organization is essential for achieving your goals. In this chapter, we'll explore the connection between organization and productivity and strategies for organizing your physical space and time.
 

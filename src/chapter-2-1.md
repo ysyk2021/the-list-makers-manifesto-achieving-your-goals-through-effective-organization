@@ -1,5 +1,3 @@
-The Connection between List-Making and Goal Achievement
-=======================================================
 
 In this chapter, we will explore the powerful connection between list-making and goal achievement. List-making is more than just a simple act of jotting down tasks; it is a fundamental tool that can propel us towards reaching our goals. By harnessing the potential of lists, we can enhance our organization, focus, and productivity.
 

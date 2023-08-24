@@ -1,5 +1,3 @@
-Chapter 8: Utilizing Technology and Tools
-=========================================
 
 In this chapter, we will explore the role of technology and tools in list-making and organization, as well as tips for selecting and using effective tools.
 

@@ -1,5 +1,3 @@
-Chapter 10: Overcoming Obstacles and Challenges
-===============================================
 
 While list-making and organization can be incredibly effective tools for achieving your goals, they are not without their challenges. In this chapter, we will explore common obstacles to list-making and organization and techniques for overcoming challenges and staying motivated.
 
