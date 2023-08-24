@@ -1,5 +1,4 @@
 
-
 Are you tired of feeling overwhelmed by your to-do list and struggling to achieve your goals? Do you find yourself constantly distracted and unable to focus on the tasks that matter most? If so, "The List-Maker's Manifesto" is the book for you.
 
 In this book, we will explore the power of effective organization and list-making in achieving your goals and living a more productive life. You'll learn how to break down your goals into manageable tasks, prioritize your to-do list, and stay focused on what matters most.
